@@ -1,0 +1,15 @@
+{
+  "xerath.title": "Xerath",
+  "xerath.tab.combo": "Combo",
+  "xerath.combo.use_q": "Dùng Q",
+  "xerath.combo.use_w": "Dùng W",
+  "xerath.combo.use_e": "Dùng E",
+  "xerath.tab.harass": "Cấu rỉa",
+  "xerath.harass.use_q": "Dùng Q",
+  "xerath.harass.use_w": "Dùng W",
+  "xerath.harass.min_mana": "Năng lượng tối thiểu %",
+  "xerath.tab.drawing": "Hiển thị",
+  "xerath.draw.q": "Vẽ tầm Q",
+  "xerath.draw.w": "Vẽ tầm W",
+  "xerath.draw.e": "Vẽ tầm E"
+}

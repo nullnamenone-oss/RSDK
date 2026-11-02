@@ -1,0 +1,15 @@
+{
+  "xerath.title": "泽拉斯",
+  "xerath.tab.combo": "连招",
+  "xerath.combo.use_q": "使用 Q",
+  "xerath.combo.use_w": "使用 W",
+  "xerath.combo.use_e": "使用 E",
+  "xerath.tab.harass": "消耗",
+  "xerath.harass.use_q": "使用 Q",
+  "xerath.harass.use_w": "使用 W",
+  "xerath.harass.min_mana": "最低法力 %",
+  "xerath.tab.drawing": "绘制",
+  "xerath.draw.q": "绘制 Q 范围",
+  "xerath.draw.w": "绘制 W 范围",
+  "xerath.draw.e": "绘制 E 范围"
+}

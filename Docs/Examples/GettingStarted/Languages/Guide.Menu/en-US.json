@@ -1,0 +1,20 @@
+{
+  "guide.menu.title": "Menu Guide",
+  "guide.menu.tab.general": "General",
+  "guide.menu.enabled": "Enabled",
+  "guide.menu.section.behavior": "Behavior",
+  "guide.menu.group.casting": "Casting",
+  "guide.menu.min_mana": "Minimum mana %",
+  "guide.menu.mode": "Mode",
+  "guide.menu.mode.safe": "Safe",
+  "guide.menu.mode.normal": "Normal",
+  "guide.menu.mode.aggressive": "Aggressive",
+  "guide.menu.range_scale": "Range scale",
+  "guide.menu.combo_key": "Combo key",
+  "guide.menu.group.advanced": "Advanced",
+  "guide.menu.debug_toggle": "Debug overlay",
+  "guide.menu.draw_color": "Draw color",
+  "guide.menu.tooltip.enabled": "Enables this example feature.",
+  "guide.menu.reset": "Reset settings",
+  "guide.menu.hint": "IDs stay stable; visible text can be translated."
+}

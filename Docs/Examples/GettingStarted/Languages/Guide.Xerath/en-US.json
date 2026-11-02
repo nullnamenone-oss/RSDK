@@ -1,0 +1,15 @@
+{
+  "xerath.title": "Xerath",
+  "xerath.tab.combo": "Combo",
+  "xerath.combo.use_q": "Use Q",
+  "xerath.combo.use_w": "Use W",
+  "xerath.combo.use_e": "Use E",
+  "xerath.tab.harass": "Harass",
+  "xerath.harass.use_q": "Use Q",
+  "xerath.harass.use_w": "Use W",
+  "xerath.harass.min_mana": "Minimum mana %",
+  "xerath.tab.drawing": "Drawing",
+  "xerath.draw.q": "Draw Q range",
+  "xerath.draw.w": "Draw W range",
+  "xerath.draw.e": "Draw E range"
+}

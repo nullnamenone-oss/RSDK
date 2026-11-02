@@ -1,0 +1,20 @@
+{
+  "guide.menu.title": "菜单指南",
+  "guide.menu.tab.general": "常规",
+  "guide.menu.enabled": "启用",
+  "guide.menu.section.behavior": "行为",
+  "guide.menu.group.casting": "施法",
+  "guide.menu.min_mana": "最低法力 %",
+  "guide.menu.mode": "模式",
+  "guide.menu.mode.safe": "安全",
+  "guide.menu.mode.normal": "普通",
+  "guide.menu.mode.aggressive": "激进",
+  "guide.menu.range_scale": "范围缩放",
+  "guide.menu.combo_key": "连招按键",
+  "guide.menu.group.advanced": "高级",
+  "guide.menu.debug_toggle": "调试显示",
+  "guide.menu.draw_color": "绘制颜色",
+  "guide.menu.tooltip.enabled": "启用此示例功能。",
+  "guide.menu.reset": "重置设置",
+  "guide.menu.hint": "ID 保持稳定；可翻译显示文本。"
+}

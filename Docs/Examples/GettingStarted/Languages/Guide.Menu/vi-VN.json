@@ -1,0 +1,20 @@
+{
+  "guide.menu.title": "Hướng dẫn Menu",
+  "guide.menu.tab.general": "Chung",
+  "guide.menu.enabled": "Bật",
+  "guide.menu.section.behavior": "Hoạt động",
+  "guide.menu.group.casting": "Thi triển",
+  "guide.menu.min_mana": "Năng lượng tối thiểu %",
+  "guide.menu.mode": "Chế độ",
+  "guide.menu.mode.safe": "An toàn",
+  "guide.menu.mode.normal": "Bình thường",
+  "guide.menu.mode.aggressive": "Chủ động",
+  "guide.menu.range_scale": "Hệ số tầm",
+  "guide.menu.combo_key": "Phím Combo",
+  "guide.menu.group.advanced": "Nâng cao",
+  "guide.menu.debug_toggle": "Hiển thị debug",
+  "guide.menu.draw_color": "Màu vẽ",
+  "guide.menu.tooltip.enabled": "Bật tính năng ví dụ này.",
+  "guide.menu.reset": "Đặt lại thiết lập",
+  "guide.menu.hint": "ID giữ nguyên; nội dung hiển thị có thể dịch."
+}

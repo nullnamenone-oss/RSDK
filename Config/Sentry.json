@@ -1,0 +1,10 @@
+{
+    "enabled":  true,
+    "dsn":  "https://884d6d3550d4c9a23c20f13bf568ea14@o462093.ingest.us.sentry.io/4512060275556352",
+    "environment":  "production",
+    "release":  "rsdk@5.2.2",
+    "debug":  false,
+    "libraryPath":  "Dependencies/Sentry/sentry.dll",
+    "handlerPath":  "Dependencies/Sentry/crashpad_handler.exe",
+    "databasePath":  "CrashData/Sentry"
+}

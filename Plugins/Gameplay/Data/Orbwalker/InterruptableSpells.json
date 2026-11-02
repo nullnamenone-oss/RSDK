@@ -1,0 +1,224 @@
+[
+  {
+    "Champion": "Caitlyn",
+    "Slot": 3,
+    "DangerLevel": "High",
+    "MovementInterrupts": true,
+    "Duration": 1.0
+  },
+  {
+    "Champion": "MissFortune",
+    "Slot": 3,
+    "DangerLevel": "High",
+    "MovementInterrupts": true,
+    "Duration": 3.0
+  },
+  {
+    "Champion": "Xerath",
+    "Slot": 0,
+    "DangerLevel": "Medium",
+    "MovementInterrupts": false,
+    "Duration": 3.0
+  },
+  {
+    "Champion": "Xerath",
+    "Slot": 3,
+    "DangerLevel": "High",
+    "MovementInterrupts": true,
+	"Duration": 10.0
+  },
+  {
+    "Champion": "FiddleSticks",
+    "Slot": 1,
+    "DangerLevel": "Medium",
+    "MovementInterrupts": true,
+    "Duration": 2.0
+  },
+  {
+    "Champion": "FiddleSticks",
+    "Slot": 3,
+    "DangerLevel": "High",
+    "MovementInterrupts": true,
+    "Duration": 1.5
+  },
+  {
+    "Champion": "Galio",
+    "Slot": 3,
+    "DangerLevel": "High",
+    "MovementInterrupts": true
+  },
+  {
+    "Champion": "Janna",
+    "Slot": 3,
+    "DangerLevel": "Medium",
+    "MovementInterrupts": true,
+    "Duration": 3.0
+  },
+  {
+    "Champion": "Jhin",
+    "Slot": 3,
+    "DangerLevel": "High",
+    "MovementInterrupts": true,
+    "Duration": 10.0
+  },
+  {
+    "Champion": "Karthus",
+    "Slot": 3,
+    "DangerLevel": "High",
+    "MovementInterrupts": true,
+    "Duration": 3.0
+  },
+  {
+    "Champion": "Katarina",
+    "Slot": 3,
+    "DangerLevel": "High",
+    "MovementInterrupts": true,
+    "Duration": 2.5
+  },
+  {
+    "Champion": "Lucian",
+    "Slot": 3,
+    "DangerLevel": "High",
+    "MovementInterrupts": false,
+    "Duration": 3.0
+  },
+  {
+    "Champion": "Malzahar",
+    "Slot": 3,
+    "DangerLevel": "High",
+    "MovementInterrupts": true,
+    "Duration": 2.5
+  },
+  {
+    "Champion": "MasterYi",
+    "Slot": 1,
+    "DangerLevel": "Low",
+    "MovementInterrupts": true,
+    "Duration": 4.0
+  },  
+  {
+    "Champion": "Nunu",
+    "Slot": 3,
+    "DangerLevel": "High",
+    "MovementInterrupts": true,
+    "Duration": 3.0
+  },
+  {
+    "Champion": "Pantheon",
+    "Slot": 2,
+    "DangerLevel": "Low",
+    "MovementInterrupts": true
+  },
+  {
+    "Champion": "Pantheon",
+    "Slot": 3,
+    "DangerLevel": "High",
+    "MovementInterrupts": true
+  },
+  {
+    "Champion": "Quinn",
+    "Slot": 3,
+    "DangerLevel": "Medium",
+    "MovementInterrupts": true
+  },
+  {
+    "Champion": "RekSai",
+    "Slot": 3,
+    "DangerLevel": "Low",
+    "MovementInterrupts": true
+  },
+  {
+    "Champion": "Sion",
+    "Slot": 0,
+    "DangerLevel": "High",
+    "MovementInterrupts": true,
+    "Duration": 2.0
+  },
+  {
+    "Champion": "Sion",
+    "Slot": 3,
+    "DangerLevel": "Low",
+    "MovementInterrupts": true,
+    "Duration": 8.0
+  },
+  {
+    "Champion": "Shen",
+    "Slot": 3,
+    "DangerLevel": "Low",
+    "MovementInterrupts": true,
+    "Duration": 3.0
+  },
+  {
+    "Champion": "TahmKench",
+    "Slot": 3,
+    "DangerLevel": "Medium",
+    "MovementInterrupts": true
+  },
+  {
+    "Champion": "TwistedFate",
+    "Slot": 3,
+    "DangerLevel": "Medium",
+    "MovementInterrupts": true
+  },
+  {
+    "Champion": "Urgot",
+    "Slot": 3,
+    "DangerLevel": "High",
+    "MovementInterrupts": true
+  },
+  {
+    "Champion": "Velkoz",
+    "Slot": 3,
+    "DangerLevel": "High",
+    "MovementInterrupts": true,
+    "Duration": 2.5
+  },
+  {
+    "Champion": "Warwick",
+    "Slot": 3,
+    "DangerLevel": "High",
+    "MovementInterrupts": true
+  },  
+  {
+    "Champion": "Varus",
+    "Slot": 0,
+    "DangerLevel": "Medium",
+    "MovementInterrupts": false,
+    "Duration": 4.0
+  },
+  {
+    "Champion": "Vi",
+    "Slot": 0,
+    "DangerLevel": "Medium",
+    "MovementInterrupts": false,
+    "Duration": 4.0
+  },
+  {
+    "Champion": "Zilean",
+    "Slot": 52,
+    "DangerLevel": "Low",
+    "MovementInterrupts": true
+  },
+  {
+    "Champion": "*",
+    "SpellName": "OdinChannel",
+    "Slot": 62,
+    "DangerLevel": "Low",
+    "MovementInterrupts": true
+  },
+  {
+    "Champion": "*",
+    "SpellName": "OdinChannelBomb",
+    "Slot": 62,
+    "DangerLevel": "Low",
+    "MovementInterrupts": true
+  },
+  {
+    "Champion": "*",
+    "SpellName": "summonerteleport",
+    "Slot": -1,
+    "DangerLevel": "Medium",
+    "MovementInterrupts": true,
+    "Duration": 4.0
+  }
+]
