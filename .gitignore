@@ -424,5 +424,16 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
+# Microsoft font
+/Assets/Fonts/msyh.ttc
+
+# Third-party binary dependencies
+/Dependencies/
+
+# Temporary and debug files
+*.pdb
+*.ilk
+*.log
+
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
