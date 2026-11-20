@@ -11,12 +11,12 @@ EonCrest RSDK provides public C++ headers, documentation, examples, and referenc
 | Component | Version |
 | --- | --- |
 | RSDK | **5.2.2** |
-| Supported game build | **League of Legends CN 16.21.832.5350** |
+| Supported game build | **League of Legends CN** |
 | Platform | **Windows x64** |
 | Development environment | **Visual Studio 2022 (MSVC v143)** |
 | C++ standard | **C++17 or newer; C++20 recommended** |
 
-**Release:** [EonCrest RSDK v5.2.2 — LoL CN 16.21.832.5350](https://github.com/nullnamenone-oss/RSDK/releases/tag/v5.2.2-lolcn.16.21.832.5350)
+**Release:** [EonCrest RSDK v5.2.2 — LoL CN](https://github.com/nullnamenone-oss/RSDK/releases)
 
 > **Compatibility matters:** RSDK's version and the game's version are independent. A future release may support a different game build while remaining RSDK 5.2.2. Always download the package matching your game build; compatibility with other builds or regions is not guaranteed.
 
@@ -117,7 +117,7 @@ RSDK/
 Release tags include both the **RSDK version** and **target game build**. For example:
 
 ```text
-v5.2.2-lolcn.16.21.832.5350
+v5.2.2-lolcn
 ```
 
 This lets game compatibility updates be published without unnecessarily changing the public SDK version. Use the release's **Assets** for the complete SDK ZIP. The repository's `main` branch can be updated independently of an older release tag.
