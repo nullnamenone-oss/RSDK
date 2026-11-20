@@ -6,6 +6,7 @@
 #include "Common/Color.h"
 
 #include <cstdint>
+#include <cstddef>
 #include <initializer_list>
 #include <string>
 #include <string_view>
@@ -253,6 +254,14 @@ namespace rsdk
         {
             const auto* const api = MenuApi();
             return api != nullptr && api->SetGroupTooltip != nullptr && api->SetGroupTooltip(handle_, tooltip) != RSDK_FALSE;
+        }
+
+        bool SetVisible(const bool visible) const noexcept
+        {
+            const auto* const api = MenuApi();
+            constexpr std::size_t required = offsetof(RSDK_MenuApi, SetGroupVisible) + sizeof(RSDK_MenuApi::SetGroupVisible);
+            return api != nullptr && api->structSize >= required && api->SetGroupVisible != nullptr &&
+                api->SetGroupVisible(handle_, visible ? RSDK_TRUE : RSDK_FALSE) != RSDK_FALSE;
         }
 
         [[nodiscard]] MenuGroup AddGroup(const char* id, const char* title, const bool defaultOpen = true) const noexcept

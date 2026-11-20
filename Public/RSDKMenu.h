@@ -87,6 +87,10 @@ typedef struct RSDK_MenuApi
     RSDK_Bool(RSDK_CALL* IsOpen)(void);
     void(RSDK_CALL* SetOpen)(RSDK_Bool open);
     void(RSDK_CALL* Toggle)(void);
+
+    // Appended in v5.2.2: hide/show an existing group without dropping saved item values.
+    // Consumers MUST check structSize before accessing this optional tail entry.
+    RSDK_Bool(RSDK_CALL* SetGroupVisible)(RSDK_MenuGroupHandle group, RSDK_Bool visible);
 } RSDK_MenuApi;
 
 #ifdef __cplusplus
